@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setCount"
+			],
+			[
+				"count",
+				"count"
+			],
+			[
+				"use",
+				"useState"
+			],
+			[
+				"r",
+				"res"
+			],
+			[
+				"post",
+				"postgres"
+			],
+			[
+				"lo",
+				"loadUser"
+			],
+			[
+				"s",
+				"setState"
+			],
+			[
+				"on",
+				"onSubmitSignIn"
+			],
+			[
+				"o",
+				"onClick"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"R",
+				"React"
+			],
+			[
+				"si",
+				"signInPassword"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"onC",
+				"onChange"
+			],
+			[
+				"com",
+				"Component"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"b",
+				"bodyParser"
+			],
+			[
+				"i",
+				"imageUrl"
+			],
+			[
+				"ro",
+				"onRouteChange"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"bo",
+				"bottomRow"
+			],
+			[
+				"cla",
+				"clarifaiFace"
+			],
+			[
+				"cl",
+				"clarifaiFace"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"p",
+				"particlesOptions"
+			],
+			[
+				"e",
+				"ErrorBoundary"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"fil",
+				"filteredRobots"
+			],
+			[
+				"sea",
+				"searchChange"
+			],
+			[
+				"Ca",
+				"CardList"
+			],
+			[
+				"c",
+				"Card"
+			],
+			[
+				"in",
+				"innerHTML"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 218.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Desktop/project/facerecognition/src/Components/SignIn/SignIn.js",
+		"/C/Users/User/Desktop/project/facerecognition/src/Components/Register/Register.js",
+		"/C/Users/User/Desktop/project/facerecognition/src/App.js",
+		"/C/Users/User/Desktop/project/facerecognition-api/server.js",
+		"/C/Users/User/Desktop/project/facerecognition/src/Components/Rank/Rank.js",
+		"/C/Users/User/Desktop/project/robofriends/src/containers/App.js",
+		"/C/Users/User/Desktop/project/facerecognition-api/package.json",
+		"/C/Users/User/Desktop/node/package.json",
+		"/C/Users/User/Desktop/node/server.js",
+		"/C/Users/User/Desktop/node/script2.js",
+		"/C/Users/User/Desktop/node/script.js",
+		"/C/Users/User/Desktop/facerecognition/src/Components/FaceRecognition/FaceRecognition.js",
+		"/C/Users/User/Desktop/facerecognition/src/Components/Register/Register.js",
+		"/C/Users/User/Desktop/facerecognition/src/App.js",
+		"/C/Users/User/Desktop/facerecognition/src/Components/ImageLinkForm/ImageLinkForm.js",
+		"/C/Users/User/Desktop/facerecognition/src/Components/Navigation/Navigation.js",
+		"/C/Users/User/Desktop/facerecognition/src/Components/SignIn/SignIn.js",
+		"/C/Users/User/Desktop/facerecognition/src/Components/FaceRecognition/FaceRecognition.css",
+		"/C/Users/User/Desktop/facerecognition/src/index.css",
+		"/C/Users/User/Desktop/facerecognition/src/App.css",
+		"/C/Users/User/Desktop/facerecognition/src/Components/ImageLinkForm/ImageLinkForm.css",
+		"/C/Users/User/Desktop/facerecognition/src/Components/Rank/Rank.js",
+		"/C/Users/User/Desktop/facerecognition/src/Components/Logo/Logo.js",
+		"/C/Users/User/Desktop/facerecognition/src/index.js",
+		"/C/Users/User/Desktop/facerecognition/src/Components/Logo/Logo.css",
+		"/C/Users/User/Desktop/web dev/ES9.js",
+		"/C/Users/User/Desktop/web dev/exerciseAsyncAwait.js",
+		"/C/Users/User/Desktop/web dev/exerciseAsyncAwait-SOLUTIONS.js",
+		"/C/Users/User/Desktop/web dev/exercisePromises-SOLUTIONS.js",
+		"/C/Users/User/Desktop/robofriends/src/containers/App.js",
+		"/C/Users/User/Desktop/robofriends/src/components/Card.js",
+		"/C/Users/User/Desktop/robofriends/src/components/CardList.js",
+		"/C/Users/User/Desktop/web dev/exercisePromises.js",
+		"/C/Users/User/Desktop/robofriends/src/components/ErrorBoundary.js",
+		"/C/Users/User/Desktop/robofriends/src/index.js",
+		"/C/Users/User/Desktop/robofriends/src/SearchBox.js",
+		"/C/Users/User/Desktop/robofriends/src/components/Scroll.js",
+		"/C/Users/User/Desktop/robofriends/src/Scroll.js",
+		"/C/Users/User/Desktop/robofriends/src/App.js",
+		"/C/Users/User/Desktop/robofriends/src/App.css",
+		"/C/Users/User/Desktop/robofriends/src/index.css",
+		"/C/Users/User/Desktop/robofriends/src/CardList.js",
+		"/C/Users/User/Desktop/robofriends/src/Card.js",
+		"/C/Users/User/Desktop/robofriends/src/robots.js",
+		"/C/Users/User/Desktop/robofriends/src/Hello.css",
+		"/C/Users/User/Desktop/robofriends/src/Hello.js",
+		"/C/Users/User/Desktop/simplefolio/src/template.html",
+		"/C/Users/User/Desktop/now/background-generator/index.html",
+		"/C/Users/User/Desktop/now/background-generator/package.json",
+		"/C/Users/User/Desktop/now/background-generator/script.js",
+		"/C/Users/User/Desktop/now/background-generator/style.css",
+		"/C/Users/User/Desktop/web dev/background generator/index.html",
+		"/C/Users/User/Desktop/adv.js/es2020-solutions.js",
+		"/C/Users/User/Desktop/adv.js/advanced-looping-solution.js",
+		"/C/Users/User/Desktop/adv.js/ES10-Solutions.js",
+		"/C/Users/User/Desktop/adv.js/exerciseES8-SOLUTIONS.js",
+		"/C/Users/User/Desktop/adv.js/exerciseES7-SOLUTIONS.js",
+		"/C/Users/User/Desktop/adv.js/exercise6-SOLUTIONS.js",
+		"/C/Users/User/Desktop/adv.js/exercise5-SOLUTIONS-1.js",
+		"/C/Users/User/Desktop/adv.js/exercise4-SOLUTIONS.js",
+		"/C/Users/User/Desktop/adv.js/exercise3-SOLUTIONS.js",
+		"/C/Users/User/Desktop/adv.js/exercise2-SOLUTIONS.js",
+		"/C/Users/User/Desktop/adv.js/exercise1-SOLUTIONS.js",
+		"/C/Users/User/Desktop/background generator/script.js",
+		"/C/Users/User/Desktop/dom/script.js",
+		"/C/Users/User/Desktop/dom/index.html",
+		"/C/Users/User/Desktop/background generator/style.css",
+		"/C/Users/User/Desktop/background generator/index.html",
+		"/C/Users/User/Downloads/backgroundgenerator.zip"
+	],
+	"find":
+	{
+		"height": 70.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 70.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "image.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
